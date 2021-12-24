@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-CSS
+# goit-markup-hw-03
+Homework №3 CSS positioning
